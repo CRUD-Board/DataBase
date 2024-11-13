@@ -1,2 +1,3 @@
 ### CRUD Board ERD
-![image](https://github.com/user-attachments/assets/392fba81-0ccf-455e-83bb-11530cc7fcd3)
+
+![erd_최종2](https://github.com/user-attachments/assets/bed9449d-2482-4220-a291-d70f912770ff)
